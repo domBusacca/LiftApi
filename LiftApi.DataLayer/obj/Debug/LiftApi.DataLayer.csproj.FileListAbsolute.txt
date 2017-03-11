@@ -1,0 +1,7 @@
+C:\GIT\repos\HossApi\LiftApi\LiftApi.DataLayer\bin\Debug\LiftApi.DataLayer.dll
+C:\GIT\repos\HossApi\LiftApi\LiftApi.DataLayer\bin\Debug\LiftApi.DataLayer.pdb
+C:\GIT\repos\HossApi\LiftApi\LiftApi.DataLayer\bin\Debug\LiftApi.Objects.dll
+C:\GIT\repos\HossApi\LiftApi\LiftApi.DataLayer\bin\Debug\LiftApi.Objects.pdb
+C:\GIT\repos\HossApi\LiftApi\LiftApi.DataLayer\obj\Debug\LiftApi.DataLayer.csprojResolveAssemblyReference.cache
+C:\GIT\repos\HossApi\LiftApi\LiftApi.DataLayer\obj\Debug\LiftApi.DataLayer.dll
+C:\GIT\repos\HossApi\LiftApi\LiftApi.DataLayer\obj\Debug\LiftApi.DataLayer.pdb

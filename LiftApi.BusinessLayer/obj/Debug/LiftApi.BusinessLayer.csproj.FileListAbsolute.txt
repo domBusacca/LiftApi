@@ -1,0 +1,9 @@
+C:\GIT\repos\HossApi\LiftApi\LiftApi.BusinessLayer\bin\Debug\LiftApi.BusinessLayer.dll
+C:\GIT\repos\HossApi\LiftApi\LiftApi.BusinessLayer\bin\Debug\LiftApi.BusinessLayer.pdb
+C:\GIT\repos\HossApi\LiftApi\LiftApi.BusinessLayer\bin\Debug\LiftApi.DataLayer.dll
+C:\GIT\repos\HossApi\LiftApi\LiftApi.BusinessLayer\bin\Debug\LiftApi.Objects.dll
+C:\GIT\repos\HossApi\LiftApi\LiftApi.BusinessLayer\bin\Debug\LiftApi.DataLayer.pdb
+C:\GIT\repos\HossApi\LiftApi\LiftApi.BusinessLayer\bin\Debug\LiftApi.Objects.pdb
+C:\GIT\repos\HossApi\LiftApi\LiftApi.BusinessLayer\obj\Debug\LiftApi.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\GIT\repos\HossApi\LiftApi\LiftApi.BusinessLayer\obj\Debug\LiftApi.BusinessLayer.dll
+C:\GIT\repos\HossApi\LiftApi\LiftApi.BusinessLayer\obj\Debug\LiftApi.BusinessLayer.pdb

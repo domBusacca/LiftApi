@@ -1,0 +1,5 @@
+C:\GIT\repos\HossApi\LiftApi\LiftApi.Objects\bin\Debug\LiftApi.Objects.dll
+C:\GIT\repos\HossApi\LiftApi\LiftApi.Objects\bin\Debug\LiftApi.Objects.pdb
+C:\GIT\repos\HossApi\LiftApi\LiftApi.Objects\obj\Debug\LiftApi.Objects.csprojResolveAssemblyReference.cache
+C:\GIT\repos\HossApi\LiftApi\LiftApi.Objects\obj\Debug\LiftApi.Objects.dll
+C:\GIT\repos\HossApi\LiftApi\LiftApi.Objects\obj\Debug\LiftApi.Objects.pdb
